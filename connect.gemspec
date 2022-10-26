@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["samc1253@gmail.com"]
 
   spec.summary = "The classic game Connect Four"
-  spec.homepage = "https://github.com/sambcox/connect_four"
+  spec.homepage = "git@github.com:sambcox/connect_gem.git"
   spec.required_ruby_version = ">= 2.6.0"
 
 
