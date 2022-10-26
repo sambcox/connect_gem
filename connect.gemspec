@@ -3,7 +3,7 @@
 require_relative "lib/connect/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "connect"
+  spec.name = "sbcconnect"
   spec.version = Connect::VERSION
   spec.authors = ["Samuel Cox"]
   spec.email = ["samc1253@gmail.com"]
