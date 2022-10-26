@@ -1,7 +1,7 @@
-require './lib/cell'
-require './lib/game'
-require './lib/board'
-require './lib/turn'
+require_relative 'cell'
+require_relative 'game'
+require_relative 'board'
+require_relative 'turn'
 
 class Player
   attr_reader :name

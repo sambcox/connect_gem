@@ -1,7 +1,7 @@
-require './lib/cell'
-require './lib/board'
-require './lib/game'
-require './lib/player'
+require_relative 'cell'
+require_relative 'board'
+require_relative 'game'
+require_relative 'player'
 
 class Turn
   attr_reader :board
